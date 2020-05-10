@@ -1,0 +1,26 @@
+{
+  "name": "apollo-upload",
+  "version": "1.0.0",
+  "description": "apollo-upload",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/choi0926/apollo-upload.git"
+  },
+  "author": "choi0926",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/choi0926/apollo-upload/issues"
+  },
+  "homepage": "https://github.com/choi0926/apollo-upload#readme",
+  "dependencies": {
+    "apollo-server": "^2.13.0",
+    "aws-sdk": "^2.673.0",
+    "dotenv": "^8.2.0",
+    "moment": "^2.25.3"
+  }
+}
