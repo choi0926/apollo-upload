@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/choi0926/apollo-upload#readme",
   "dependencies": {
-    "apollo-server": "^2.13.0",
+    "apollo-server": "^2.25.3",
     "aws-sdk": "^2.673.0",
     "dotenv": "^8.2.0",
     "moment": "^2.25.3"
